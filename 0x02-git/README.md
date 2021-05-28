@@ -3,4 +3,5 @@ Olaoluwa Olunuga, is an upcoming computer scientist and a blooming artificial in
 
 My Goals are to:
    -Be a Computer scientist,
-   -Solve problems facing africa and the world.
+   -Solve problems facing africa and the world,
+   -help people make reach their goals.
